@@ -4,3 +4,10 @@
   box-sizing: border-box;
 }
 
+.header {
+  height: 550px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url(Images/background.png);
+}

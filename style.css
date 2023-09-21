@@ -11,3 +11,11 @@
   background-repeat: no-repeat;
   background-image: url(Images/background.png);
 }
+
+.nav-list {
+  list-style-type: none;
+}
+
+.nav-item:hover {
+  color: orange;
+}

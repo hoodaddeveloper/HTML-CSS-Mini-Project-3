@@ -28,3 +28,12 @@
   border-radius: 20px;
   background-color: rgba(0, 0, 0, 0.4);
 }
+
+.team-list {
+  list-style-type: none;
+}
+
+.team-item {
+  width: 350px;
+  display: inline-block;
+}

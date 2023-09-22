@@ -37,3 +37,24 @@
   width: 350px;
   display: inline-block;
 }
+
+.team-bio {
+  margin: 15px;
+  text-align: justify;
+}
+
+.about {
+  height: 550px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url(Images/bg.jpg);
+}
+
+.circle {
+  width: 30%;
+  margin: auto;
+  padding: 20px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
